@@ -1,0 +1,16 @@
+.fullName {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.adress {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+
+.profilImage {
+  width: 300px;
+  height: 300px;
+  margin-top: 50px;
+}
